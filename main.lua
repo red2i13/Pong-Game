@@ -97,7 +97,7 @@ function love.update(dt)
 		-- gameState = 'start'
 	end
 	--victory status
-	if Player1.score == 10 or Player1.score == 10 then
+	if Player1.score == 10 or Player2.score == 10 then
 		gameState = 'win'
 		Player1.score = 0
 		Player2.score = 0
