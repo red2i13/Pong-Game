@@ -1,8 +1,8 @@
 # Pong-Game
 
 A classic Pong game built with Lua and the LÖVE2D framework.
-https://github.com/user-attachments/assets/8b7ff584-b8e1-475a-8b1c-e8bdd0964d16
 
+https://github.com/user-attachments/assets/8b7ff584-b8e1-475a-8b1c-e8bdd0964d16
 ## Table of Contents
 
 - [Features](#features)
