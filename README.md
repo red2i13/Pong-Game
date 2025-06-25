@@ -78,7 +78,7 @@ Controller support is a planned feature and will be added in a future update. On
 ## Game Mechanics
 
 The game utilizes Axis-Aligned Bounding Box (AABB) detection for all collision calculations. This method provides efficient and accurate collision responses between the paddles, ball, and the game boundaries, ensuring smooth and predictable gameplay.
-
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection/aabb_test.png
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to:
