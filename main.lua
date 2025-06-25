@@ -22,7 +22,7 @@ function love.load()
 	})
 	min_dt = 1/60
 	next_time = love.timer.getTime()
-	smallFont = love.graphics.newFont('assets/fonts/pixel.ttf', 8)
+	smallFont = love.graphics.newFont('assets/fonts/startpixel.ttf', 9)
 	scoreFont = love.graphics.newFont('assets/fonts/pixel.ttf', 32)
 	Player1 = Paddle(10, 30, 5, 20)
 	Player2 = Paddle(VIRTUAL_WIDTH - 10,VIRTUAL_HEIGHT - 50, 5, 20)
